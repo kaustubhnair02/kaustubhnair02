@@ -15,8 +15,7 @@ I'm a 4th-year B.Tech. student majoring in Artificial Intelligence and Data Scie
 ## Projects
 
 - 📊 [Project 1](link-to-project-1): Brief description or key highlights.
-- 📈 [Project 2](link-to-project-2): Brief description or key highlights.
-- 📉 [Project 3](link-to-project-3): Brief description or key highlights.
+
 
 Feel free to explore my repositories to find more of my projects and contributions!
 
